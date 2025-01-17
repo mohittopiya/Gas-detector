@@ -62,7 +62,7 @@ Include the circuit diagram here, or provide a link to the image if hosted elsew
 - Implement wireless alert mechanisms for remote monitoring.
 
 ## Author
-**[Your Name]**
+**Mohit Topiya**
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
