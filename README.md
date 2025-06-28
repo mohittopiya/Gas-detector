@@ -19,13 +19,6 @@ This project demonstrates the design and implementation of a gas detector circui
 - Power Supply
 - Breadboard or PCB for circuit assembly
 
-## Circuit Diagram
-Include the circuit diagram here, or provide a link to the image if hosted elsewhere. Example:
-
-```
-[![Circuit Diagram](path/to/circuit-diagram.png)](path/to/circuit-diagram.png)
-```
-
 ## How It Works
 1. **Gas Sensing:** The gas sensor detects the concentration of gas in the environment and outputs an analog voltage signal.
 2. **Signal Amplification:** The IC 741 amplifies the analog signal from the sensor.
@@ -60,11 +53,6 @@ Include the circuit diagram here, or provide a link to the image if hosted elsew
 - Integrate a microcontroller for digital signal processing and enhanced accuracy.
 - Add a display module to show real-time gas concentration levels.
 - Implement wireless alert mechanisms for remote monitoring.
-
-## Author
-**Mohit Topiya**
-
-## License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
